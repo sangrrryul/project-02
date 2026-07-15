@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./savv_main_logo.svg" width="230"/>
+  <img src="./assets/savv_logo.svg" width="230"/>
 </p>
 
 <h3 align="center">
