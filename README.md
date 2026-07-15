@@ -14,6 +14,6 @@ Save + Value + Archive
 저장의 가치를 담는 디지털 아카이브 플랫폼
 </p>
 
-> **2026 데브옵스 프로젝트**
+> **2026 데브옵스 프로젝트 VOL.2**
 > | 디지털 아카이브 플랫폼 | web service | UI/UX 플랫폼
 Spring Boot &amp; Thymeleaf Web Project
